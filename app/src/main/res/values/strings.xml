@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SheSafe</string>
+    <string name="main_notification">Make Sure you have entered your own and the recipients contact details! </string>
+    <string name="alert_only">Alert Only</string>
+    <string name="high_risk">High Risk</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="about">About</string>
+    <string name="tips">Tips on how to be safe</string>
+    <string name="todo">TODO</string>
+    <string name="addContactsTextView">In Add contacts activity!</string>
+    <string name="ContactName">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="view_all">View All</string>
+    <string name="delete_help">Click on a contact to delete it</string>
+    <string name="imagetest">imagetest</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="abt_EnterDetails">Enter Details</string>
+    <string name="per_entername">Enter Your Name</string>
+    <string name="per_editName">Name</string>
+    <string name="per_editName1">Name</string>
+    <string name="tv_polNo">Enter Local Police Station Contact</string>
+    <string name="et_polNo">Enter Phone</string>
+    <string name="ignore">(Ignore if already done)</string>
+
+</resources>
